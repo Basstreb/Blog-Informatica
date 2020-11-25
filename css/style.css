@@ -1,4 +1,9 @@
+html {
+    scroll-padding-top: 110px;
+}
+
 body {
+    padding-top: 100px;
     background-color: #3a3a3a;
 }
 
@@ -19,6 +24,7 @@ body {
 
 #navbar2 {
     background-color: #3a3a3a;
+    box-shadow: 3px 2px 6px 0px rgba(0, 0, 0, 0.75);
 }
 
 #navbar2 a {
@@ -60,7 +66,7 @@ body {
     color: #E73334;
 }
 
-#videos h1{
+#videos h1 {
     color: #E73334;
 }
 
@@ -78,7 +84,7 @@ body {
     background-color: #272727;
 }
 
-.destacadas-img{
+.destacadas-img {
     border-radius: 15px;
 }
 
