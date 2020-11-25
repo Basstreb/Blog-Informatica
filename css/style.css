@@ -60,6 +60,15 @@ body {
     color: #E73334;
 }
 
+#videos h1{
+    color: #E73334;
+}
+
+#videos iframe {
+    border-radius: 15px;
+    max-width: 100%;
+}
+
 #contacto {
     background-color: #E73334;
 }
