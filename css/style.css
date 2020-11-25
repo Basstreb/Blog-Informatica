@@ -17,9 +17,12 @@ body {
     box-shadow: 3px 2px 6px 0px rgba(0, 0, 0, 0.75);
 }
 
+#navbar2 {
+    background-color: #3a3a3a;
+}
+
 #navbar2 a {
     color: white;
-    background-color: #3a3a3a;
 }
 
 #navbar2 a:hover {
@@ -53,11 +56,44 @@ body {
     color: #E73334;
 }
 
-#contacto{
-    background-color:#E73334;
+#destacadas b {
+    color: #E73334;
 }
 
-#footer{
+#contacto {
+    background-color: #E73334;
+}
+
+#footer {
     color: white;
     background-color: #272727;
+}
+
+.destacadas-img{
+    border-radius: 15px;
+}
+
+.fondo-des {
+    background-image: url(../images/Fondo.png);
+    background-size: cover;
+    color: white;
+    border-radius: 15px;
+}
+
+.button-des {
+    background-color: rgba(255, 255, 255, 0.3);
+    text-decoration: none;
+    color: white;
+    border: 1px white solid;
+    border-radius: 5px;
+    padding: 6px 8px;
+}
+
+.button-des:hover {
+    background-color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+    color: red;
+    border: 1px white solid;
+    border-radius: 5px;
+    padding: 6px 8px;
 }
