@@ -7,12 +7,14 @@ body {
     background-color: #3a3a3a;
 }
 
+/*CSS para index.html*/
 #navbar {
     background-color: #272727;
 }
 
 #nav a {
     color: white;
+    font-family: 'Oswald', sans-serif;
 }
 
 #nav a:hover {
@@ -25,6 +27,7 @@ body {
 #navbar2 {
     background-color: #3a3a3a;
     box-shadow: 3px 2px 6px 0px rgba(0, 0, 0, 0.75);
+    font-family: 'Oswald', sans-serif;
 }
 
 #navbar2 a {
@@ -51,6 +54,7 @@ body {
 
 #hero {
     color: white;
+    font-family: 'Oswald', sans-serif;
 }
 
 #hero img {
@@ -64,10 +68,12 @@ body {
 
 #destacadas b {
     color: #E73334;
+    font-family: 'Oswald', sans-serif;
 }
 
 #videos h1 {
     color: #E73334;
+    font-family: 'Oswald', sans-serif;
 }
 
 #videos iframe {
@@ -77,6 +83,7 @@ body {
 
 #contacto {
     background-color: #E73334;
+    font-family: 'Oswald', sans-serif;
 }
 
 #footer {
@@ -115,4 +122,17 @@ body {
 
 .icon:hover {
     transform: scale(1.5);
+}
+
+/*Parte para el resto de secciones*/
+
+#main h1{
+    color: #E73334;
+    font-family: 'Oswald', sans-serif;
+}
+
+.fondo-inf {
+    background-color: #E73334;
+    color: white;
+    border-radius: 15px;
 }
