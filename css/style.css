@@ -7,9 +7,8 @@ body {
 }
 
 /*CSS para index.html*/
-#navbar {
+#navbar-pr {
     background-color: #272727;
-    box-shadow: 3px 2px 6px 0px rgba(0, 0, 0, 0.75);
 }
 
 #nav a {
@@ -134,6 +133,11 @@ body {
 
 #body_margin{
     margin-top: 80px;
+}
+
+#navbar{
+    background-color: #272727;
+    box-shadow: 3px 2px 6px 0px rgba(0, 0, 0, 0.75);
 }
 
 #main h1 {
