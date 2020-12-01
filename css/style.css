@@ -132,6 +132,10 @@ body {
 
 /*Parte para el resto de secciones*/
 
+#body_margin{
+    margin-top: 80px;
+}
+
 #main h1 {
     color: #E73334;
     font-family: 'Oswald', sans-serif;
