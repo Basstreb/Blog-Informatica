@@ -11,6 +11,10 @@ body {
     background-color: #272727;
 }
 
+#navbar-pr figure {
+    padding-top: 15px;
+}
+
 #nav a {
     color: white;
     font-family: 'Oswald', sans-serif;
@@ -132,12 +136,16 @@ body {
 /*Parte para el resto de secciones*/
 
 #body_margin{
-    margin-top: 80px;
+    margin-top: 90px;
 }
 
 #navbar{
     background-color: #272727;
     box-shadow: 3px 2px 6px 0px rgba(0, 0, 0, 0.75);
+}
+
+#navbar figure {
+    padding-top: 15px;
 }
 
 #main h1 {
